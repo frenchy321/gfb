@@ -1,0 +1,86 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Geneva, sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+.container {
+    background-image: url('https://www.guidesforbrides.co.uk/client-uploads/uploads/2018/05/17/guides_for_brides_veil_couple.jpg');
+    min-height: 400px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.header-pic {
+    width: 100%;
+
+}
+
+nav {
+    margin-left: -120px;
+    ;
+
+}
+
+nav li {
+    display: inline-block;
+    margin-left: 2em;
+    padding-top: 20px;
+}
+
+nav li a {
+    text-decoration: none;
+    color: white;
+}
+
+.logo-link {
+    font-size: 1.3em;
+    text-decoration: none;
+    color: white;
+}
+
+.dropdown {
+    margin-left: 25px;
+
+}
+
+.section1 {
+    height: 223px;
+    background-color: white;
+    font-size: 1.5em;
+    font-family: arial;
+
+}
+
+.section1 p {
+    font-size: 22px;
+    line-height: 32px;
+}
+
+section h2 {
+    color: #bc486e;
+    padding-top: 20px;
+    margin-bottom: -25px;
+}
+
+.section2 {
+    height: 223px;
+    color: white;
+    background-color: #a4bab5;
+    font-size: 1.5rem;
+    padding-top: 20px;
+}
+
+.section2 h2 {
+    color: white;
+}
+
+.dank {
+    background: limegreen;
+}
